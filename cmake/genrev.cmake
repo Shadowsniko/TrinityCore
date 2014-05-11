@@ -1,4 +1,4 @@
-Salut
+Salut bonjour lu
 
 yo
 # Copyright (C) 2008-2014 TrinityCore <http://www.trinitycore.org/>
